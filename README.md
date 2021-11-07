@@ -1,5 +1,10 @@
 <a href="https://github.com/ilteoood">
     <p align="center">
+        <a href="https://wakatime.com/@fba5a693-116a-42fa-99fa-f644541f16b3"><img src="https://wakatime.com/badge/user/fba5a693-116a-42fa-99fa-f644541f16b3.svg" alt="Total time coded since Oct 24 2021" /></a>
+    </p>
+</a>
+<a href="https://github.com/ilteoood">
+    <p align="center">
         <img src="https://github-profile-trophy.vercel.app/?username=ilteoood&column=7&theme=onedark"/>
     </p>
 </a>
