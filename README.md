@@ -48,6 +48,6 @@ Everything here is made with ❤️
 </a>
 
 ## Latest Medium posts
-<!-- MEDIUM-POST-LIST:START -->
+<!-- BLOG-POST-LIST:START -->
  
-<!-- MEDIUM-POST-LIST:END -->
+<!-- BLOG-POST-LIST:END -->
