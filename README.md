@@ -49,5 +49,7 @@ Everything here is made with ❤️
 
 ## Latest Medium posts
 <!-- BLOG-POST-LIST:START -->
- 
+- [The importance of self improvement, or better: the awareness of inadequacy](https://ilteoood.medium.com/the-importance-of-self-improvement-or-better-the-awareness-of-inadequacy-b6c17026c720?source=rss-27550b4b72c1------2)
+- [Docker: why multi-arch images matters?](https://medium.com/gft-engineering/docker-why-multi-arch-images-matters-927397a5be2e?source=rss-27550b4b72c1------2)
+- [Web Components: a future-proof structure](https://medium.com/gft-engineering/web-components-a-future-proof-structure-5db3865fa31?source=rss-27550b4b72c1------2)
 <!-- BLOG-POST-LIST:END -->
